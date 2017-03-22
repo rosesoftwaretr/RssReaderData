@@ -7,7 +7,7 @@ package com.rssreaderdata.database;
 
 /**
  *
- * @author RIDVAN
+ * @author RoseSoftwaretr
  */
 public class HibernateUtil {
     
